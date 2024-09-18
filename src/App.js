@@ -1,3 +1,5 @@
+//vinit more
+
 import { useState, useEffect } from 'react';  //useEffect shows the stuff once you open the page
 import MovieCard from './MovieCard';
 
